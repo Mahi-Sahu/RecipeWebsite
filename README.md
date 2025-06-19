@@ -4,8 +4,10 @@ A simple and responsive **Recipe Finder** web app built using **HTML**, **CSS**,
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/homePage.png)
 ![Recipe Popup](screenshots/popup.png)
+![Error Meaasage](screenshots/errorMeassage.png)
+![Search](screenshots/search.png)
 
 ## 🛠️ Tech Stack
 
